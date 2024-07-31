@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Screenshot:
+<img src="https://github.com/rashmi2201/goccery_app_bloc/blob/main/output/Screenshot_1722410406.png" height="400">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
