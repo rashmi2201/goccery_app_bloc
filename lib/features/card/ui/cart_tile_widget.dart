@@ -1,11 +1,11 @@
-import 'dart:js_interop';
+
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:goccery_app_bloc/features/card/bloc/card_bloc.dart';
-import 'package:goccery_app_bloc/features/home/bloc/home_bloc.dart';
+
 import 'package:goccery_app_bloc/features/home/models/home_product_data_model.dart';
 
 class CardTileWidget extends StatelessWidget {
